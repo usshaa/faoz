@@ -6,4 +6,5 @@ class Student:
         self.a = b
     def display(self):
         print(self.a)
-
+    def welcome():
+        print("Hi")
